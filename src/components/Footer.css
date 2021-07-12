@@ -1,0 +1,29 @@
+.main{
+
+    padding:30px;
+    background: rgba(13, 13, 110, 0.774);
+    min-height: 20vh;
+    /* text-align: center; */
+}
+.footer{
+    display: flex;
+}
+.navLinks {
+    padding: 0 30px;
+    display: flex;
+    flex-grow: 2;
+    justify-content: space-between;
+}
+.center-align{
+    color : white;
+    text-align: center;
+}
+.fa {
+    color:white;
+    padding: 20px;
+    font-size: 30px;
+    /* width: 50px; */
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }

@@ -1,0 +1,27 @@
+.middle{
+    min-height: 700px;
+    background-image: linear-gradient(to right,rgba(48, 43, 43, 0.836), rgba(223, 223, 223, 0.788)),url("para.JPG") ;
+    background-size:cover;
+    background-position: center;
+    position: relative;
+}
+.content>h3 , .content>h2{
+    margin:0;
+    margin-bottom: 10px;
+}
+.content > button{
+    margin-top:20px;
+}
+.content{
+    color:white;
+    position: absolute;
+    top:20%;
+    left:20%;
+
+}
+.nav{
+    color:white;
+    position: absolute;
+    top:5%;
+    left:15%;
+}

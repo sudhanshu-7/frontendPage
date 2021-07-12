@@ -1,0 +1,9 @@
+.footer-links{
+    display: flex;
+    flex-direction: column;
+    color : white;
+    font-size: 0.75rem;
+}
+.nomargin{
+    margin:0;
+}

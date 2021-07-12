@@ -1,0 +1,18 @@
+.query{
+    /* display: flex;
+    flex-direction: column; */
+    background: white;
+    padding:20px;
+    margin : 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.473);
+}
+.color{
+    color:rgb(47, 196, 255);
+}
+.query>p{
+    text-align: justify;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,10 @@
+.benifits{
+    background:rgb(192, 192, 192);
+    padding:5% 10%;
+    min-width: 80%;
+    text-align: center;
+}
+.card-align{
+    display: flex;
+    justify-content: space-between;
+}

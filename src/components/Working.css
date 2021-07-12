@@ -1,0 +1,10 @@
+.working{
+    background:rgb(255, 255, 255);
+    padding:5% 10%;
+    min-width: 80%;
+    text-align: center;
+}
+.card-align{
+    display: flex;
+    justify-content: space-around;
+}
